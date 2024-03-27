@@ -1,4 +1,4 @@
-<template>
+x<template>
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
@@ -29,7 +29,7 @@
     </ul>
   </div>
 </template>
-
+z
 <script>
 export default {
   name: 'HelloWorld',
